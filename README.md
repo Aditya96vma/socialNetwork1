@@ -4,7 +4,7 @@ Steps to be followed :
 
 On Gitbash(or any other cmd utility , henceforth mentioned as gitbash) run the following commands
 
-1)$ git clone 
+1)$ git clone https://github.com/Aditya96vma/socialNetwork1.git
 
 2)$ cd socialNetwork1/
 
